@@ -1,0 +1,12 @@
+main:
+
+  - title:  "RGB-X Object Detection & Semantic Segmentation with prompts under missing modality condition during test time"
+    authors:  National Research Foundation of Korea (NRF) 2024.07– 2025.06
+    code: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/teaser_example_2.png
+
+  - title: "Robot Manipulation with Vision-Tactile Fusion"
+    authors:  Samsung Science and Technology Foundation  2023.04– 2023.08
+    pdf: https://arxiv.org/pdf/2002.10211.pdf
+    code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
+    image: ./assets/img/teaser_example.png
