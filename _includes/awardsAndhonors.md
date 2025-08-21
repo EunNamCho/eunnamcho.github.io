@@ -1,16 +1,17 @@
-## Services
+<h2>Awards and Honors</h2>
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
-
 <ul style="margin:0 0 5px;">
-  <li><a href="http://cvpr2023.thecvf.com/"><autocolor>IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2021-2023</autocolor></a></li>
-  <li><a href="http://iccv2021.thecvf.com/"><autocolor>IEEE/CVF International Conference on Computer Vision (ICCV) 2021</autocolor></a></li>
-  <li><a href="https://eccv2022.ecva.net/"><autocolor>European Conference on Computer Vision (ECCV) 2022</autocolor></a></li>
-</ul>
-
-<h4 style="margin:0 10px 0;">Journal Reviewers</h4>
-
-<ul style="margin:0 0 20px;">
-  <li><a href="https://www.computer.org/csdl/journal/tp"><autocolor>IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)</autocolor></a></li>
-  <li><a href="https://www.springer.com/journal/11263"><autocolor>International Journal of Computer Vision (IJCV)</autocolor></a></li>
+  <li><strong>ICRA IR Instance Segmentation Challenge</strong> | <em>Hanwha Systems</em><br>
+      3rd Place — 2D instance segmentation on thermal infrared images<br>
+      <small>2025.05</small>
+  </li>
+  <li><strong>2023 Mirae Asset Securities Big Data Festival</strong> | <em>Mirae Asset Securities</em><br>
+      Finalist — Large-scale financial assistant system using deep learning models<br>
+      <small>2023.09</small>
+  </li>
+  <li><strong>Inha AI Challenge</strong> | <em>Inha University</em><br>
+      Excellence Award — Spatio-temporal data prediction (wind power generation forecasting)<br>
+      <small>2022.08</small>
+  </li>
 </ul>
