@@ -1,6 +1,6 @@
 main:
 
-  - title: Connecting the Objects: Relational Occlusion Graphs for Amodal Segmentation
+  - title: "Connecting the Objects: Relational Occlusion Graphs for Amodal Segmentation"
     authors:  HuilingLiu*,EunnamCho*,AecheonJung, SungwookKim, SungeunHong (*Corresponding authors)
     conference_short: AAAI
     conference: In Proc. of Int’l Conf. on Artificial Intelligence <strong>(AAAI)</strong>, 2026.
