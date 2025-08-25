@@ -1,6 +1,5 @@
 <h2>Awards and Honors</h2>
 
-<h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="margin:0 0 5px;">
   <li><strong>ICRA IR Instance Segmentation Challenge</strong> | <em>Hanwha Systems</em><br>
       3rd Place — 2D instance segmentation on thermal infrared images<br>
